@@ -1,4 +1,4 @@
-# 👋 Bem-vindos ao meu Canto Python! 🐍
+# 👋 Bem-vindos ao meu Github! 🐍
 
 Olá! Eu sou o Thiago Schneider, um explorador apaixonado por códigos de 17 anos. 💻✨ Neste repositório, mergulho profundamente no universo da programação, compartilhando jornadas, descobertas e experimentos no fascinante reino da linguagem de serpente 🐍.
 
