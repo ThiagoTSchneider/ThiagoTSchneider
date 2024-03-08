@@ -29,5 +29,4 @@ Explore uma variedade de repositórios abaixo, todos projetados para facilitar a
 Valorizo sua colaboração!
 
 Sinta-se encorajado a contribuir com novos scripts ou oferecer sugestões para melhorias. 
-
 Seja parte do nosso projeto e ajude a fortalecer nossa comunidade Python!
