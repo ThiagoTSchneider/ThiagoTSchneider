@@ -2,7 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagotschneider)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagotschneider&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotschneider&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotschneider&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
