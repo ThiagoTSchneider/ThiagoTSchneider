@@ -1,4 +1,4 @@
-# Thiago Schneider
+# Thiago T. Schneider
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagotschneider&show_icons=true&theme=dark" alt="GitHub Stats" />
