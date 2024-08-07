@@ -1,6 +1,4 @@
-# Thiago T. Schneider
-
-## 🛠️ Tecnologias e Ferramentas
+## Thiago Schneider | 🛠️ Tecnologias e Ferramentas 
 
 | Linguagens de Programação | Frameworks e Bibliotecas | Ferramentas e Plataformas |
 |--------------------------|--------------------------|---------------------------|
@@ -13,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotschneider&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+---
 
 
 ## 🌟 Contribuições e Projetos
